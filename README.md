@@ -3,7 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 -------------
-I'm a student at the University of Information Technology. I'm passionate about software development and currently honing my skills in this field. With a solid understanding of HTML, CSS, JavaScript, React, Python... I enjoy creating visually appealing and user-friendly websites. I also hold the JLPT N3 certification, showcasing my proficiency in Japanese, and I'm fluent in English as well. I have a goal of achieving N1 certification in the future. I'm always eager to learn and grow, actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers. Let's connect and create amazing web experiences together!
+I'm a student at the University of Information Technology, passionate about software development and currently honing my skills in this field. With a solid understanding of HTML, CSS, JavaScript, React, and Python, I enjoy creating visually appealing and user-friendly applications.
+
+I hold the JLPT N3 certification, demonstrating my proficiency in Japanese, and I’m also fluent in English. I'm aiming to achieve the N1 certification in the future.
+
+Always eager to learn and grow, I actively seek opportunities to contribute to open-source projects and collaborate with fellow developers.
+
+Let’s connect and create amazing web experiences together!
+
 * 🌍  I'm based in Ho Chi Minh
 * ✉️  You can contact me at [tpmbdhieuvanpham@gmail.com](mailto:tpmbdhieuvanpham@gmail.com)
 
