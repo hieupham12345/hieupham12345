@@ -9,7 +9,7 @@ I hold the JLPT N3 certification, demonstrating my proficiency in Japanese, and 
 
 Always eager to learn and grow, I actively seek opportunities to contribute to open-source projects and collaborate with fellow developers.
 
-Let’s connect and create amazing web experiences together!
+Let’s connect and create amazing experiences together!
 
 * 🌍  I'm based in Ho Chi Minh
 * ✉️  You can contact me at [tpmbdhieuvanpham@gmail.com](mailto:tpmbdhieuvanpham@gmail.com)
